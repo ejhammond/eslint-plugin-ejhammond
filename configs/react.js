@@ -11,8 +11,6 @@ module.exports = {
     require.resolve('./base.js'),
     // adds linting for react
     'plugin:react/recommended',
-    // disable linting rules from react
-    'prettier/react',
   ],
   plugins: [
     // additional linting for React hooks
