@@ -1,6 +1,10 @@
 {
   "name": "@ejhammond/eslint-plugin",
   "version": "3.0.4",
+  "sideEffects": false,
+  "engines": {
+    "node": "17.2"
+  },
   "author": "EJ Hammond",
   "description": "Eslint plugin for my projects",
   "repository": "https://github.com/ejhammond/eslint-plugin-ejhammond",
