@@ -1,6 +1,6 @@
 {
   "name": "@ejhammond/eslint-plugin",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "sideEffects": false,
   "engines": {
     "node": "17.2"
