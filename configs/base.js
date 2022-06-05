@@ -50,5 +50,11 @@ module.exports = {
         'jest/valid-describe': 'off',
       },
     },
+    {
+      files: ['*rc.js', '*.config.js'],
+      env: {
+        node: true,
+      },
+    },
   ],
 };
