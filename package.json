@@ -3,7 +3,7 @@
   "version": "4.0.2",
   "sideEffects": false,
   "engines": {
-    "node": "18"
+    "node": "17.x"
   },
   "author": "EJ Hammond",
   "description": "Eslint plugin for my projects",
