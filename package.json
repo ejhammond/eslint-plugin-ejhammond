@@ -1,6 +1,7 @@
 {
   "name": "@ejhammond/eslint-plugin",
   "version": "5.0.0",
+  "nonce": "1",
   "sideEffects": false,
   "author": "EJ Hammond",
   "description": "Eslint plugin for my projects",
